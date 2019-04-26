@@ -1,0 +1,30 @@
+.plus{
+  color: #fff;
+  font-size: 70px;
+  text-align: center;
+  height: 300px;
+  position: absolute;
+  top: 39%;
+  left: 33%;
+  text-transform: uppercase;
+}
+.more{
+  color:mediumpurple;
+  font-size:165px;
+  font-weight: bold;
+  opacity: 0.3;
+  position: absolute;
+  top: 30%;
+  left: 20%;
+  /* text-transform: uppercase; */
+}
+
+.divider
+{
+    width: 70px;
+    height: 2px;
+    background:  mediumpurple;
+    margin: 0 auto;
+}
+
+

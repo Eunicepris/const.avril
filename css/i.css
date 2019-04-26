@@ -1,0 +1,133 @@
+.header
+{
+	height: 110px;
+	width: 80%;
+	display: block;
+	background-color: mediumpurple;
+	margin-left: 100px;
+}
+
+ul{
+	float:left;
+	list-style-type: none;
+	margin-top: 10px;
+
+}
+ul li {
+	display: inline-block;
+	margin-top: 40px;
+
+}
+ul li a {
+	text-decoration: none;
+	color: #fff;
+	padding: 50px ;
+	transition: 0.6s #eee;
+	font-weight: bold;
+}
+ul li a:hover{
+	color: #fff;
+	text-decoration: none;
+
+}
+ul li .active a{
+	background-color: #fff;
+	color: #000;
+	text-decoration: none;
+}
+
+.para {
+	text-align: center;
+	margin-right: 300px;
+	margin-left: 300px;
+	font-family: candlebright_sample;
+}
+
+.formulaire {
+	background-color: #eee;
+	border-color: orange;
+	margin-top:100px; 
+	width: 400px;
+	height: 380px;
+	box-shadow: 0 0 20px gray;
+	text-align: center;
+	padding:45px;
+	color: #000;
+	font-weight: bold;
+	margin-bottom: 35px;
+  }
+  .envoyer {
+	background-color: mediumpurple;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: mediumpurple;
+	font-weight: bold;
+	color: #fff;
+  }
+  .title {
+	text-align: center;
+	font-family: candlebright_sample;
+  }
+  .paragraphes {
+	text-align: center;
+	font-style: italic;
+	margin-left: 300px;
+	margin-right: 300px;
+	color: red;
+  }
+  .img-design {
+   box-shadow: 0 0 9px gray;
+  }
+   body{
+        font-family: Caminata-One-demo-FFP;
+        font-size: 22px;
+      }
+      .ss {
+        border-width: 4px;
+        border-style: solid;
+        border-color: orange;
+        padding: 30px;
+        margin-top: 50px;
+        height: 350px;
+        padding-top: 40px;
+        font-size: 20px;
+      }
+
+      .envoyers {
+        padding-bottom: 10px;
+        padding-top: 10px;
+        padding-right: 50px;
+        padding-left: 50px;
+        color: #fff;
+        font-weight: bold;
+        background-color: orange;
+        margin-left: 30px;
+        border-width: 2px;
+        border-color: orange;
+        border-style: solid;
+        margin-bottom: 10px;
+        font-size: 15px;
+      }
+      .katie {
+        text-align: center;
+        margin-right: 300px;
+        margin-left: 300px;
+        font-family: Caminata-One-demo-FFP;
+      }
+      .dis {
+        background-color: orange;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        color: #fff;
+        font-weight: bold;
+        margin-top: 10px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        text-align: center;
+      }
